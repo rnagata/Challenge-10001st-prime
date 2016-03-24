@@ -19,4 +19,4 @@ There are **0** tests, write one test to show the 10,001st prime number.
 Write a test case that checks that the object instance method "**getPrimeNumber**" exists and is a member of the object instance.  
 Write another test case that checks that "**getPrimeNumber**" is not a member of the "class" called "**PrimeFinder**".
 
-** USE MOCHA AND CHAI PLZ THAAAANKS :D **
+**USE MOCHA AND CHAI PLZ THAAAANKS :D**
