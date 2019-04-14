@@ -1,0 +1,24 @@
+{
+  "name": "Challenge-10001st-prime",
+  "version": "1.0.0",
+  "description": "Challenge 7 ===========",
+  "main": "challenge_7.js",
+  "scripts": {
+    "test": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devleague/Challenge-10001st-prime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devleague/Challenge-10001st-prime/issues"
+  },
+  "homepage": "https://github.com/devleague/Challenge-10001st-prime#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.3"
+  }
+}
